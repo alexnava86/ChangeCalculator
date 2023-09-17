@@ -1,0 +1,19 @@
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.ChangeCalculatorForm.resources
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.Cache
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\Extra Exercises\Chapter 05\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\Debug\ChangeCalculator.pdb
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\bin\Debug\ChangeCalculator.exe.config
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.csprojAssemblyReference.cache
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.ChangeCalculatorForm.resources
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.Properties.Resources.resources
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.csproj.GenerateResource.cache
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.exe
+C:\Users\Nava\Documents\Projects\ChangeCalculator\Project.ChangeCalculator\obj\Debug\ChangeCalculator.pdb
