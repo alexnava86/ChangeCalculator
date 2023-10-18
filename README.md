@@ -1,2 +1,2 @@
 # ChangeCalculator
- Simple .NET/C# Windows Form App to calculate the quantities of different coins based on value
+.NET/C# Windows Form App to calculate the quantities of different coins based on value.
